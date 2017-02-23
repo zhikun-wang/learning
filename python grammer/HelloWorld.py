@@ -1,7 +1,9 @@
 #!/usr/bin/python
-print("Hello World");
+print("Hello World")
 
-def sayHello(name):
-	print "hello",name;
 
-sayHello("tim");
+def say_hello(name):
+    print "hello", name
+
+
+say_hello("tim")
